@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/PrimetalsReactApp/static/css/main.fd9e5ea6.css",
+    "main.js": "/PrimetalsReactApp/static/js/main.80ff29e7.js",
+    "static/js/488.747c018a.chunk.js": "/PrimetalsReactApp/static/js/488.747c018a.chunk.js",
+    "static/media/logo.svg": "/PrimetalsReactApp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/PrimetalsReactApp/index.html",
+    "main.fd9e5ea6.css.map": "/PrimetalsReactApp/static/css/main.fd9e5ea6.css.map",
+    "main.80ff29e7.js.map": "/PrimetalsReactApp/static/js/main.80ff29e7.js.map",
+    "488.747c018a.chunk.js.map": "/PrimetalsReactApp/static/js/488.747c018a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd9e5ea6.css",
+    "static/js/main.80ff29e7.js"
+  ]
+}
